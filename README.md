@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently an university student at Çankaya University<br>🌱 I’m currently learning pyhton,html,css,javascript,c
+🔭 I’m currently an university student at Çankaya University<br>🌱 I’m currently learning pyhton,html,css,javascript,c,c++
 
 
 ## 🌐 Socials:
